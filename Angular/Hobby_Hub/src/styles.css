@@ -1,0 +1,11 @@
+/* You can add global styles to this file, and also import other style files */
+body{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    background: url("https://img.freepik.com/free-photo/top-view-dried-flowers-torn-paper_23-2151640917.jpg?t=st=1722855148~exp=1722858748~hmac=ee7ee04cfa3073744e3454daabf5c4f39787056c68c09089033a25ddec56c577&w=996");
+    background-size: cover;
+    background-position: center; 
+    background-repeat: no-repeat;   
+
+}

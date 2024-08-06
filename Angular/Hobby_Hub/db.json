@@ -1,0 +1,28 @@
+{
+  "hobbies": [
+    {
+      "id": "1",
+      "hobbyName": "Singing",
+      "hobbyNos": 2,
+      "hobbyList": "Rock, Kpop"
+    },
+    {
+      "id": "2",
+      "hobbyName": "Reading",
+      "hobbyNos": 3,
+      "hobbyList": "Fiction, Non-Fiction, Biography"
+    },
+    {
+      "id": "3",
+      "hobbyName": "Playing",
+      "hobbyNos": 4,
+      "hobbyList": "Tennis, Throwball, Basketball, Badminton"
+    },
+    {
+      "id": "4",
+      "hobbyName": "Drawing",
+      "hobbyNos": 2,
+      "hobbyList": "Pencil shading, Painting"
+    }
+  ]
+}
